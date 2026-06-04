@@ -108,7 +108,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/XbibzOfficial777/deepsee
 
 <div align="center">
   <a href="https://github.com/XbibzOfficial777/ytmusicscraper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XbibzOfficial777&repo=ytmusicscraper&theme=tokyonight&hide_border=true" alt="YtMusicScraper Card" />
+    <img src="https://static.vecteezy.com/system/resources/thumbnails/042/127/234/small/white-square-bordered-youtube-logo-on-transparent-background-free-png.png" alt="YtMusicScraper Card" />
   </a>
   <a href="https://github.com/XbibzOfficial777/flashdisk-recovery">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=XbibzOfficial777&repo=flashdisk-recovery&theme=tokyonight&hide_border=true" alt="Flashdisk Recovery Card" />
