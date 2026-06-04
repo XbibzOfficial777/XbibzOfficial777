@@ -43,12 +43,12 @@
         <li>Lagi dalemin teknologi AI/ML, sama arsitektur backend yang scalable</li>
         <li>Terbuka banget buat kolaborasi proyek open source, terutama di ekosistem Python/Node.js</li>
         <li>Mau nanya soal Web Development, JavaScript, Python, atau tools CLI? Gas aja!</li>
-        <li>Kontak gue di <a href="mailto:xbibzofficial@gmail.com"><b>xbibzofficial@gmail.com</b></a></li>
+        <li>Kontak gue di <a href="mailto:xbibzofficial@protonmail.com"><b>xbibzofficial@gmail.com</b></a></li>
         <li>Fakta acak: Paling semangat ngoding pas tengah malem ditemenin kopi item ☕</li>
       </ul>
     </td>
     <td width="40%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF" style="border-radius: 10px;" />
+      <img src="https://imgbs.com/uploads/666894-91ee744d.jpg" width="100%" alt="Coding GIF" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
