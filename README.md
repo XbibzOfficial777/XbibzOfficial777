@@ -42,7 +42,7 @@
         <li>Lagi dalemin teknologi AI/ML, sama arsitektur backend yang scalable</li>
         <li>Terbuka banget buat kolaborasi proyek open source, terutama di ekosistem Python/Node.js</li>
         <li>Mau nanya soal Web Development, JavaScript, Python, atau tools CLI? Gas aja!</li>
-        <li>Kontak gue di <a href="mailto:xbibzofficial@protonmail.com"><b>xbibzofficial@gmail.com</b></a></li>
+        <li>Kontak gue di <a href="mailto:xbibzofficial@protonmail.com"><b>xbibzofficial@protonmail.com</b></a></li>
         <li>Fakta acak: Paling semangat ngoding pas tengah malem ditemenin kopi item ☕</li>
       </ul>
     </td>
