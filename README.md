@@ -28,7 +28,6 @@
 <!-- ===== JUMLAH KUNJUNGAN ===== -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=XbibzOfficial777&color=8A2BE2&style=for-the-badge&label=Dilihat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/XbibzOfficial777?style=for-the-badge&color=00BFFF&label=Followers" alt="GitHub Followers" />
 </div>
 
 ---
