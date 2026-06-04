@@ -188,7 +188,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/XbibzOfficial777/deepsee
 ## 🏆 Trofi GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=XbibzOfficial777&theme=tokyonight&no-frame=true&row=1&margin-w=15&column=8" alt="GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=XbibzOfficial777" alt="GitHub Trophies" />
 </div>
 
 ---
