@@ -110,18 +110,6 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/XbibzOfficial777/deepsee
   <a href="https://github.com/XbibzOfficial777/ytmusicscraper">
     <img src="https://static.vecteezy.com/system/resources/thumbnails/042/127/234/small/white-square-bordered-youtube-logo-on-transparent-background-free-png.png" alt="YtMusicScraper Card" />
   </a>
-  <a href="https://github.com/XbibzOfficial777/flashdisk-recovery">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XbibzOfficial777&repo=flashdisk-recovery&theme=tokyonight&hide_border=true" alt="Flashdisk Recovery Card" />
-  </a>
-  <a href="https://github.com/XbibzOfficial777/Debian-Installer-Termux">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XbibzOfficial777&repo=Debian-Installer-Termux&theme=tokyonight&hide_border=true" alt="Debian Installer Card" />
-  </a>
-  <a href="https://github.com/XbibzOfficial777/obfushtml">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XbibzOfficial777&repo=obfushtml&theme=tokyonight&hide_border=true" alt="ObfusHTML Card" />
-  </a>
-  <a href="https://github.com/XbibzOfficial777/nexoai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XbibzOfficial777&repo=nexoai&theme=tokyonight&hide_border=true" alt="NexoAI Card" />
-  </a>
 </div>
 
 ---
@@ -171,8 +159,8 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/XbibzOfficial777/deepsee
 ## 📊 Statistik GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XbibzOfficial777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Statistik%20GitHub" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XbibzOfficial777&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Bahasa%20Paling%20Dipake" alt="Top Languages" />
+  <img height="180em" src="https://readme-stats-github.pages.dev/api?username=XbibzOfficial777&theme=dark" alt="GitHub Stats" />
+  <img height="180em" src="https://readme-stats-github.pages.dev/api/top-langs?username=XbibzOfficial777&theme=dark" alt="Top Languages" />
 </div>
 
 <div align="center">
