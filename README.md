@@ -17,7 +17,7 @@
 
 [![Website](https://img.shields.io/badge/Website-xbibzofficial.pages.dev-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://xbibzofficial.pages.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-XbibzOfficial777-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XbibzOfficial777)
-[![TikTok](https://img.shields.io/badge/TikTok-@xbibzofficiall-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@xbibzofficiall)
+[![TikTok](https://img.shields.io/badge/TikTok-@xbibzofficial-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@xbibzofficial)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Dukung%20Gue-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/xbibzofficial)
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xbibzofc)
 
@@ -190,8 +190,8 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/XbibzOfficial777/deepsee
   <a href="https://github.com/XbibzOfficial777">
     <img src="https://img.shields.io/badge/GitHub-XbibzOfficial777-181717?style=for-the-badge" alt="GitHub" />
   </a>
-  <a href="https://tiktok.com/@xbibzofficiall">
-    <img src="https://img.shields.io/badge/TikTok-@xbibzofficiall-000000?style=for-the-badge" alt="TikTok" />
+  <a href="https://tiktok.com/@xbibzofficial">
+    <img src="https://img.shields.io/badge/TikTok-@xbibzofficial-000000?style=for-the-badge" alt="TikTok" />
   </a>
   <a href="https://ko-fi.com/xbibzofficial">
     <img src="https://img.shields.io/badge/Ko--fi-Dukung_Gue-FF5E5B?style=for-the-badge" alt="Ko-fi" />
