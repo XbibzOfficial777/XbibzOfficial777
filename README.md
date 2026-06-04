@@ -59,7 +59,7 @@
 
 <div align="center">
   <a href="https://github.com/XbibzOfficial777/deepseek-cli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XbibzOfficial777&repo=deepseek-cli&theme=tokyonight&hide_border=true&description_lines_count=4" alt="DeepSeek CLI Card" />
+    <img src="https://iconvault-api.pages.dev/icons/DeepSeek.svg" alt="DeepSeek CLI Card" />
   </a>
 </div>
 
