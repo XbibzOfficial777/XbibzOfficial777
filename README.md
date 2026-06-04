@@ -184,7 +184,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/XbibzOfficial777/deepsee
 ## 🤝 Yuk, Nyambung!
 
 <div align="center">
-  <a href="https://xbibzofficiall.netlify.app">
+  <a href="https://xbibzofficial.pages.dev">
     <img src="https://img.shields.io/badge/Website-xbibzofficiall.netlify.app-8A2BE2?style=for-the-badge" alt="Website" />
   </a>
   <a href="https://github.com/XbibzOfficial777">
