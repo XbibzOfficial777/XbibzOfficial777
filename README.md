@@ -54,11 +54,11 @@
 
 ---
 
-## 🚀 Proyek Unggulan: DeepSeek CLI Agent v4.0
+## 🚀 Proyek Unggulan: DeepSeek CLI Agent
 
 <div align="center">
   <a href="https://github.com/XbibzOfficial777/deepseek-cli">
-    <img src="https://iconvault-api.pages.dev/icons/DeepSeek.svg" alt="DeepSeek CLI Card" />
+    <img src="https://imgbs.com/uploads/beautyplus-save-17d140cd.jpg" alt="DeepSeek CLI Card" />
   </a>
 </div>
 
