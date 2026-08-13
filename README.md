@@ -1,12 +1,12 @@
 <!-- ===== HEADER ANIMASI ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=200&section=header&text=XbibzOfficial777&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Content%20Creator%20|%20Open%20Source%20Enthusiast&descSize=16&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=200&section=header&text=XbibzOfficial777&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Content%20Creator%20|%20Open%20Source%20Contributor&descSize=16&descAlignY=55" />
 </div>
 
 <!-- ===== PEMBUKA ANIMASI ===== -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=600&lines=Halo%2C+selamat+datang+di+profil+gue!;Gue+bangun+aplikasi+web+keren+abis;Kontributor+open+source+aktif;Ayo+ngobrol+dan+kolaborasi!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=600&lines=Selamat%20datang%20di%20profil%20saya;Saya%20membangun%20aplikasi%20web%20modern;Kontributor%20open%20source%20aktif;Mari%20berkolaborasi%20dan%20berdiskusi" alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,7 +18,7 @@
 [![Website](https://img.shields.io/badge/Website-xbibzofficial.pages.dev-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://xbibzofficial.pages.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-XbibzOfficial777-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XbibzOfficial777)
 [![TikTok](https://img.shields.io/badge/TikTok-@xbibzofficial-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@xbibzofficial)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Dukung%2Gua-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/xbibzofficial)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Dukung%20Saya-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/xbibzofficial)
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xbibzofc)
 
 </div>
@@ -27,23 +27,23 @@
 
 <!-- ===== JUMLAH KUNJUNGAN ===== -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=XbibzOfficial777&color=8A2BE2&style=for-the-badge&label=Dilihat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=XbibzOfficial777&color=8A2BE2&style=for-the-badge&label=Profil%20Views" alt="Profile Views" />
 </div>
 
 ---
 
-## 👨‍💻 Tentang Gue
+## 👨‍💻 Tentang Saya
 
 <table>
   <tr>
     <td width="60%">
       <ul>
-        <li>Sekarang lagi fokus ngerjain proyek web modern dan tools CLI open-source</li>
-        <li>Lagi dalemin teknologi AI/ML, sama arsitektur backend yang scalable</li>
-        <li>Terbuka banget buat kolaborasi proyek open source, terutama di ekosistem Python/Node.js</li>
-        <li>Mau nanya soal Web Development, JavaScript, Python, atau tools CLI? Gas aja!</li>
-        <li>Kontak gue di <a href="mailto:xbibzofficial@protonmail.com"><b>xbibzofficial@protonmail.com</b></a></li>
-        <li>Fakta acak: Paling semangat ngoding pas tengah malem ditemenin kopi item ☕</li>
+        <li>Fokus pada pengembangan aplikasi web modern dan alat baris perintah (CLI) open-source</li>
+        <li>Mempelajari teknologi artificial intelligence, machine learning, dan arsitektur backend yang scalable</li>
+        <li>Terbuka untuk berkolaborasi dalam proyek open source, terutama di ekosistem Python dan Node.js</li>
+        <li>Tersedia untuk diskusi mengenai web development, JavaScript, Python, dan tools CLI</li>
+        <li>Hubungi saya melalui <a href="mailto:xbibzofficial@protonmail.com"><b>xbibzofficial@protonmail.com</b></a></li>
+        <li>Fakta menarik: Paling produktif saat mengerjakan proyek di tengah malam dengan secangkir kopi ☕</li>
       </ul>
     </td>
     <td width="40%">
@@ -62,25 +62,25 @@
   </a>
 </div>
 
-**DeepSeek CLI** adalah AI Agent otonom production-grade yang gue desain buat ngakalin workflow development. Dibekali agentic loop canggih, dia gak cuma "ngobrol"—tapi **nalar, rencana, dan eksekusi** tugas pakai 26+ tools bawaan. Pas banget buat developer yang butuh kecepatan, otonomi, dan efisiensi di terminal.
+**DeepSeek CLI** adalah agen AI otonomi tingkat produksi yang dirancang untuk mengoptimalkan alur kerja pengembangan. Dilengkapi dengan loop agentic canggih, sistem ini tidak hanya dapat berkomunikasi tetapi juga dapat bernalar, merencanakan, dan menjalankan tugas kompleks menggunakan lebih dari 26 alat terintegrasi. Cocok untuk pengembang yang membutuhkan kecepatan, otonomi, dan efisiensi di terminal.
 
-### ✨ Fitur Kunci
+### ✨ Fitur Utama
 
 | Fitur | Deskripsi |
 |---|---|
-| **Autonomous Reasoning** | Mesin perencana multi-langkah yang mecah tugas kompleks jadi langkah-langkah yang bisa dieksekusi. |
-| **26+ Tools Terintegrasi** | Akses penuh ke Filesystem, Shell, Web Search, Eksekusi Python, dan operasi Git. |
-| **Multi-Provider AI** | Dukungan native buat 7 provider AI: OpenRouter, Gemini, Anthropic, Groq, Together AI, HuggingFace, dan OpenAI. |
-| **UI/UX Elegan** | Antarmuka terminal kaya dengan real-time streaming, progress tracking, dan syntax highlighting. |
-| **Mobile Ready** | Optimal buat Android Termux dan lingkungan low-latency. |
-| **Eksekusi Aman** | Validasi perintah bawaan dan mode otonom yang bisa di-toggle buat operasi yang aman. |
+| **Autonomous Reasoning** | Mesin perencanaan multi-langkah yang menguraikan tugas kompleks menjadi langkah-langkah yang dapat dieksekusi |
+| **26+ Tools Terintegrasi** | Akses penuh ke Filesystem, Shell, Web Search, Python Execution, dan operasi Git |
+| **Multi-Provider AI** | Dukungan native untuk 7 penyedia AI: OpenRouter, Gemini, Anthropic, Groq, Together AI, HuggingFace, dan OpenAI |
+| **Antarmuka Elegan** | UI/UX terminal kaya dengan streaming real-time, progress tracking, dan syntax highlighting |
+| **Mobile Ready** | Dioptimalkan untuk Android Termux dan lingkungan dengan latensi rendah |
+| **Eksekusi Aman** | Validasi perintah bawaan dan mode otonom yang dapat diaktifkan/nonaktifkan untuk operasi yang aman |
 
 ### 🔄 Arsitektur Agentic Loop
 
-1. **Perception:** Agen menerima maksud pengguna dan menganalisis lingkungan.
-2. **Planning:** Model AI (default DeepSeek-R1) menghasilkan strategi eksekusi multi-langkah.
-3. **Action:** Agen memanggil tools khusus (Filesystem, Shell, dll.) buat ngerjain tugas.
-4. **Observation:** Hasil dimasukin balik ke memori buat koreksi diri dan perbaikan.
+1. **Perception:** Agen menerima maksud pengguna dan menganalisis lingkungan sekitar
+2. **Planning:** Model AI (default DeepSeek-R1) menghasilkan strategi eksekusi multi-langkah
+3. **Action:** Agen memanggil tools khusus (Filesystem, Shell, dan lainnya) untuk mengerjakan tugas
+4. **Observation:** Hasil dimasukkan kembali ke memori untuk perbaikan diri dan optimalisasi
 
 ```mermaid
 graph LR
@@ -93,7 +93,7 @@ graph LR
     Agent --> Providers[API Providers]
 ```
 
-> **Tech Stack:** Python 97.6%, Shell 2.4% &nbsp;|&nbsp; **Lisensi:** MIT &nbsp;|&nbsp; **Status:** Aktif dikembangin
+> **Tech Stack:** Python 97.6%, Shell 2.4% &nbsp;|&nbsp; **Lisensi:** MIT &nbsp;|&nbsp; **Status:** Dalam pengembangan aktif
 
 ### ⚡ Instalasi Cepat
 
@@ -113,7 +113,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/XbibzOfficial777/deepsee
 
 ---
 
-## 🛠️ Gudang Teknologi
+## 🛠️ Teknologi & Tools
 
 ### Bahasa Pemrograman
 
@@ -172,7 +172,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/XbibzOfficial777/deepsee
 
 ---
 
-## 🏆 Trofi GitHub
+## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://trophy.ryglcloud.net/?username=XbibzOfficial777" alt="GitHub Trophies" />
@@ -180,7 +180,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/XbibzOfficial777/deepsee
 
 ---
 
-## 🤝 Yuk, Nyambung!
+## 🤝 Mari Terhubung
 
 <div align="center">
   <a href="https://xbibzofficial.pages.dev">
@@ -193,7 +193,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/XbibzOfficial777/deepsee
     <img src="https://img.shields.io/badge/TikTok-@xbibzofficial-000000?style=for-the-badge" alt="TikTok" />
   </a>
   <a href="https://ko-fi.com/xbibzofficial">
-    <img src="https://img.shields.io/badge/Ko--fi-Dukung_Gue-FF5E5B?style=for-the-badge" alt="Ko-fi" />
+    <img src="https://img.shields.io/badge/Ko--fi-Dukung%20Saya-FF5E5B?style=for-the-badge" alt="Ko-fi" />
   </a>
   <a href="https://t.me/xbibzofc">
     <img src="https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge" alt="Telegram" />
@@ -210,5 +210,5 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/XbibzOfficial777/deepsee
 ---
 
 <div align="center">
-  Dibuat dengan bangga oleh <b>XbibzOfficial777</b> 🚀
+  Dibuat dengan kebanggaan oleh <b>XbibzOfficial777</b> 🚀
 </div>
