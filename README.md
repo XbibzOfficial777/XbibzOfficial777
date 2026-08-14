@@ -58,7 +58,7 @@
 
 <div align="center">
   <a href="https://github.com/XbibzOfficial777/deepseek-cli">
-    <img src="https://imgbs.com/uploads/beautyplus-save-17d140cd.jpg" alt="DeepSeek CLI Card" />
+    <img src="https://imgbs.com/uploads/bibzcode-313710f2.jpg" alt="DeepSeek CLI Card" />
   </a>
 </div>
 
