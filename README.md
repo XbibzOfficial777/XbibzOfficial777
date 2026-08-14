@@ -54,15 +54,15 @@
 
 ---
 
-## 🚀 Proyek Unggulan: DeepSeek CLI Agent
+## 🚀 Proyek Unggulan: BibzCode CLI Agent
 
 <div align="center">
-  <a href="https://github.com/XbibzOfficial777/deepseek-cli">
+  <a href="https://github.com/XbibzOfficial777/BibzCode">
     <img src="https://imgbs.com/uploads/bibzcode-313710f2.jpg" alt="DeepSeek CLI Card" />
   </a>
 </div>
 
-**DeepSeek CLI** adalah agen AI otonomi tingkat produksi yang dirancang untuk mengoptimalkan alur kerja pengembangan. Dilengkapi dengan loop agentic canggih, sistem ini tidak hanya dapat berkomunikasi tetapi juga dapat bernalar, merencanakan, dan menjalankan tugas kompleks menggunakan lebih dari 26 alat terintegrasi. Cocok untuk pengembang yang membutuhkan kecepatan, otonomi, dan efisiensi di terminal.
+**BibzCode CLI** adalah agen AI otonomi tingkat produksi yang dirancang untuk mengoptimalkan alur kerja pengembangan. Dilengkapi dengan loop agentic canggih, sistem ini tidak hanya dapat berkomunikasi tetapi juga dapat bernalar, merencanakan, dan menjalankan tugas kompleks menggunakan lebih dari 26 alat terintegrasi. Cocok untuk pengembang yang membutuhkan kecepatan, otonomi, dan efisiensi di terminal.
 
 ### ✨ Fitur Utama
 
@@ -98,7 +98,7 @@ graph LR
 ### ⚡ Instalasi Cepat
 
 ```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/XbibzOfficial777/deepseek-cli/refs/heads/main/install.sh)"
+curl -fsSL https://bibzcode.bibzflow.workers.dev/install.sh | bash
 ```
 
 ---
