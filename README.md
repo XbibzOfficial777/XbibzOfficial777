@@ -15,7 +15,7 @@
 <!-- ===== TAUTAN SOSIAL MEDIA & KONTAK ===== -->
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-xbibzofficial.pages.dev-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://xbibzofficial.pages.dev)
+[![Website](https://img.shields.io/badge/Website-xbibzofficial.my.id-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://xbibzofficial.my.id)
 [![GitHub](https://img.shields.io/badge/GitHub-XbibzOfficial777-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XbibzOfficial777)
 [![TikTok](https://img.shields.io/badge/TikTok-@xbibzofficial-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@xbibzofficial)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Dukung%20Saya-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/xbibzofficial)
