@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Xbibz Official</h1>
+<img width="3415" height="1918" alt="BeautyPlus_20261105141919632_save" src="https://github.com/user-attachments/assets/209b8014-7d9d-4ce0-87fb-1a227c0a2dd9" />
 <h3 align="center">A passionate Fullstack developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xbibzofficial777&label=Profile%20views&color=0e75b6&style=flat" alt="xbibzofficial777" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xbibzofficial777" alt="xbibzofficial777" /></a> </p>
+
 
 - 🔭 I’m currently working on [BibzCode](https://github.com/XbibzOfficial777/BibzCode)
 
