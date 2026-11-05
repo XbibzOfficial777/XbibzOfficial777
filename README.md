@@ -1,16 +1,6 @@
-<!-- ===== HEADER ANIMASI ===== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=200&section=header&text=XbibzOfficial777&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Content%20Creator%20|%20Open%20Source%20Contributor&descSize=16&descAlignY=55" />
-</div>
+<img width="3415" height="1918" alt="BeautyPlus_20261105141919632_save" src="https://github.com/user-attachments/assets/209b8014-7d9d-4ce0-87fb-1a227c0a2dd9" />
 
-<!-- ===== PEMBUKA ANIMASI ===== -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=600&lines=Selamat%20datang%20di%20profil%20saya;Saya%20membangun%20aplikasi%20web%20modern;Kontributor%20open%20source%20aktif;Mari%20berkolaborasi%20dan%20berdiskusi" alt="Typing SVG" />
-  </a>
-</div>
 
-<br/>
 
 <!-- ===== TAUTAN SOSIAL MEDIA & KONTAK ===== -->
 <div align="center">
