@@ -1,0 +1,34 @@
+name: Update expressive profile
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install generator dependencies
+        working-directory: expressive
+        run: npm ci
+      - name: Refresh public statistics and regenerate cards
+        working-directory: expressive
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 scripts/update_stats.py
+          npm run generate
+      - name: Commit updated cards
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md assets/expressive expressive/src/data/stats.json expressive/src/data/avatar.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update expressive profile stats'
+            git push
+          fi

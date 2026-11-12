@@ -1,0 +1,1 @@
+{"name":"xbibz-expressive-profile","private":true,"type":"module","scripts":{"generate":"tsx scripts/generate.ts"},"devDependencies":{"tsx":"4.20.6","typescript":"5.9.3"}}

@@ -1,0 +1,240 @@
+{
+  "stars": 23,
+  "contributions": 334,
+  "repos": 37,
+  "followers": 23,
+  "languages": [
+    [
+      "Smali",
+      13479689
+    ],
+    [
+      "JavaScript",
+      9076950
+    ],
+    [
+      "Python",
+      2972616
+    ],
+    [
+      "Dart",
+      1917137
+    ],
+    [
+      "TypeScript",
+      1885738
+    ],
+    [
+      "HolyC",
+      704520
+    ],
+    [
+      "HTML",
+      197286
+    ],
+    [
+      "Shell",
+      119101
+    ]
+  ],
+  "days": [
+    [
+      {
+        "c": 0,
+        "day": 23,
+        "today": false
+      },
+      {
+        "c": 1,
+        "day": 24,
+        "today": false
+      },
+      {
+        "c": 0,
+        "day": 25,
+        "today": false
+      },
+      {
+        "c": 0,
+        "day": 26,
+        "today": false
+      },
+      {
+        "c": 6,
+        "day": 27,
+        "today": false
+      },
+      {
+        "c": 2,
+        "day": 28,
+        "today": false
+      },
+      {
+        "c": 13,
+        "day": 29,
+        "today": false
+      }
+    ],
+    [
+      {
+        "c": 0,
+        "day": 30,
+        "today": false
+      },
+      {
+        "c": 0,
+        "day": 31,
+        "today": false
+      },
+      {
+        "c": 1,
+        "day": 1,
+        "today": false
+      },
+      {
+        "c": 0,
+        "day": 2,
+        "today": false
+      },
+      {
+        "c": 0,
+        "day": 3,
+        "today": false
+      },
+      {
+        "c": 3,
+        "day": 4,
+        "today": false
+      },
+      {
+        "c": 13,
+        "day": 5,
+        "today": false
+      }
+    ],
+    [
+      {
+        "c": 0,
+        "day": 6,
+        "today": false
+      },
+      {
+        "c": 0,
+        "day": 7,
+        "today": false
+      },
+      {
+        "c": 0,
+        "day": 8,
+        "today": false
+      },
+      {
+        "c": 0,
+        "day": 9,
+        "today": false
+      },
+      {
+        "c": 0,
+        "day": 10,
+        "today": false
+      },
+      {
+        "c": 0,
+        "day": 11,
+        "today": false
+      },
+      {
+        "c": 8,
+        "day": 12,
+        "today": true
+      }
+    ]
+  ],
+  "pins": [
+    {
+      "name": "Mochy-Music",
+      "url": "https://github.com/XbibzOfficial777/Mochy-Music",
+      "text": "A modern sleek music player.",
+      "fork": true,
+      "stars": 2,
+      "language": "Kotlin",
+      "topics": []
+    },
+    {
+      "name": "evillimiter",
+      "url": "https://github.com/XbibzOfficial777/evillimiter",
+      "text": "Tool to monitor, analyze and limit bandwidth of devices on local network - Arecoded by Xbibz Official",
+      "fork": false,
+      "stars": 3,
+      "language": "Python",
+      "topics": [
+        "evillimiter",
+        "ipv4-network",
+        "networking",
+        "wifi"
+      ]
+    },
+    {
+      "name": "whatsbibz",
+      "url": "https://github.com/XbibzOfficial777/whatsbibz",
+      "text": "WhatsBibz — WhatsApp Web multi-device library for Node.js (maintained Baileys fork): custom pairing codes, self-healing sessions, configurable or automatic linked-device identity, full TypeScript types. npm: @xbibzlibrary/whatsbibz",
+      "fork": false,
+      "stars": 1,
+      "language": "JavaScript",
+      "topics": [
+        "baileys",
+        "esm",
+        "library",
+        "multi-device",
+        "nodejs",
+        "pairing-code",
+        "typescript",
+        "whatsapp",
+        "whatsapp-api",
+        "whatsapp-bot",
+        "whatsapp-web"
+      ]
+    },
+    {
+      "name": "telebibz",
+      "url": "https://github.com/XbibzOfficial777/telebibz",
+      "text": "Telegram Bot framework SDK for Node.js and TypeScript with typed API, routing, webhooks, conversations, plugins, queues, and colorful CLI logs.",
+      "fork": false,
+      "stars": 1,
+      "language": "JavaScript",
+      "topics": [
+        "bot-framework",
+        "chatbot",
+        "nodejs",
+        "telegram",
+        "telegram-bot",
+        "telegram-bot-api",
+        "telegram-bot-framework",
+        "typescript",
+        "webhook"
+      ]
+    },
+    {
+      "name": "plinteng-ai",
+      "url": "https://github.com/XbibzOfficial777/plinteng-ai",
+      "text": "Plinteng AI — Personal AI Agent & Automation Platform (Flutter + Kotlin + Rive)",
+      "fork": false,
+      "stars": 0,
+      "language": "Dart",
+      "topics": []
+    },
+    {
+      "name": "Bibz-Islamic-App",
+      "url": "https://github.com/XbibzOfficial777/Bibz-Islamic-App",
+      "text": "Offline-first Quran application built with Flutter",
+      "fork": false,
+      "stars": 0,
+      "language": "Dart",
+      "topics": []
+    }
+  ],
+  "streak": {
+    "currentStreakCount": 1,
+    "longestStreakCount": 5
+  }
+}

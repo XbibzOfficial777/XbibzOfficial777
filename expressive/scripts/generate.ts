@@ -1,0 +1,30 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import profileJson from '../profile.json';
+import statsJson from '../src/data/stats.json';
+import avatarJson from '../src/data/avatar.json';
+import { DEFAULT_PALETTE } from '../src/data/defaultData';
+import type { ProfileConfig, StatsData } from '../src/types';
+import { generateHeroSvg, generateAboutSvg, generateStackSvg, generateProjectCardSvg, generateStatsSvg, generateStreakSvg, generateWaveSvg, generateButtonSvg, generateSocialPillSvg, generateReadmeMarkdown } from '../src/utils/svgBuilder';
+const profile = profileJson as unknown as ProfileConfig;
+const stats = statsJson as unknown as StatsData & {streak:{currentStreakCount:number;longestStreakCount:number}};
+profile.hero.avatarUrl = avatarJson.avatar;
+Object.assign(profile.streak, stats.streak);
+const assets = path.resolve('../assets/expressive');
+fs.mkdirSync(assets, {recursive:true});
+for (const theme of ['light','dark'] as const) {
+ const p = DEFAULT_PALETTE[theme];
+ const write = (name:string, value:string) => fs.writeFileSync(path.join(assets, `${name}-${theme}.svg`), value);
+ write('hero',generateHeroSvg(profile,p));
+ write('about',generateAboutSvg(profile,p));
+ write('stack',generateStackSvg(profile,p));
+ write('stats',generateStatsSvg(profile,stats,p));
+ write('streak',generateStreakSvg(profile,stats,p));
+ write('wave',generateWaveSvg(p,profile.motion));
+ const labels=['Telegram','Website','Email'];
+ profile.socials.items.forEach((item,i)=>write(`social-${i+1}`,generateSocialPillSvg(labels[i],item.icon,p,profile.motion)));
+ stats.pins.forEach((pin,i)=>write('project-'+pin.name.toLowerCase().replace(/[^a-z0-9]/g,'-').replace(/^-+|-+$/g,''),generateProjectCardSvg(pin,i,p,profile.motion)));
+ profile.buttons.items.forEach((b,i)=>write(`button-${i+1}`,generateButtonSvg(b.label,b.icon,b.style,p,profile.motion)));
+}
+fs.writeFileSync('../README.md',generateReadmeMarkdown(profile,stats.pins));
+console.log('Generated profile README and light/dark animated SVG cards');

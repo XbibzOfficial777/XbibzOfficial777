@@ -1,0 +1,196 @@
+{
+  "version": 1,
+  "login": "XbibzOfficial777",
+  "seed": "#FF5CA8",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Halo, saya",
+    "name": "Xbibz Official",
+    "subtitle": "Developer & technology enthusiast.\nMembangun aplikasi, website dan tools open source.",
+    "typing": true,
+    "avatarShape": "pill",
+    "avatarUrl": "https://github.com/AlexJamesHQ.png?size=320",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Indonesia"
+      },
+      {
+        "icon": "code",
+        "label": "Developer"
+      },
+      {
+        "icon": "terminal",
+        "label": "Web · Mobile · CLI"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Xbibz Official — Developer dari Indonesia"
+      },
+      {
+        "icon": "code",
+        "label": "Membangun website, aplikasi mobile dan tools CLI"
+      },
+      {
+        "icon": "palette",
+        "label": "Mempelajari AI, otomasi dan teknologi backend"
+      },
+      {
+        "icon": "desktop_windows",
+        "label": "Terbuka untuk kolaborasi dan proyek open source"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "code",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:nodedotjs",
+            "label": "Node.js"
+          }
+        ]
+      },
+      {
+        "title": "Mobile",
+        "items": [
+          {
+            "icon": "code",
+            "label": "Kotlin"
+          },
+          {
+            "icon": "code",
+            "label": "Dart"
+          },
+          {
+            "icon": "code",
+            "label": "Flutter"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          },
+          {
+            "icon": "terminal",
+            "label": "CLI"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [
+      "Mochy-Music",
+      "evillimiter",
+      "whatsbibz",
+      "telebibz",
+      "plinteng-ai",
+      "Bibz-Islamic-App"
+    ],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across public repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/xbibzofc"
+      },
+      {
+        "icon": "language",
+        "url": "https://xbibzofficial.my.id"
+      },
+      {
+        "icon": "alternate_email",
+        "url": "mailto:xbibzofficial@protonmail.com"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://xbibzofficial.my.id",
+        "style": "filled"
+      },
+      {
+        "icon": "language",
+        "label": "Jasa website",
+        "url": "https://jasjus.xbibzclone.my.id",
+        "style": "tonal"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "https://github.com/XbibzOfficial777?tab=repositories",
+        "style": "tonal"
+      }
+    ]
+  }
+}

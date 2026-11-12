@@ -1,49 +1,27 @@
 <div align="center">
 
-<img src="assets/hero-avatar-motion.svg" width="100%" alt="Halo, saya Xbibz Official — developer dan technology enthusiast" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/expressive/hero-dark.svg"><img src="assets/expressive/hero-light.svg" width="100%" alt="Halo, saya Xbibz Official"></picture>
 
-[![Website](https://img.shields.io/badge/Website-92566d?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xbibzofficial.my.id)
-[![Telegram](https://img.shields.io/badge/Telegram-92566d?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xbibzofc)
-[![Email](https://img.shields.io/badge/Email-92566d?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:xbibzofficial@protonmail.com)
+<a href="https://t.me/xbibzofc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/expressive/social-1-dark.svg"><img src="assets/expressive/social-1-light.svg" width="auto" height="42" alt="Telegram"></picture></a>&nbsp;&nbsp;<a href="https://xbibzofficial.my.id"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/expressive/social-2-dark.svg"><img src="assets/expressive/social-2-light.svg" width="auto" height="42" alt="Website"></picture></a>&nbsp;&nbsp;<a href="mailto:xbibzofficial@protonmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/expressive/social-3-dark.svg"><img src="assets/expressive/social-3-light.svg" width="auto" height="42" alt="Email"></picture></a>
 
-<img src="assets/about-motion.svg" width="100%" alt="About me: developer Indonesia yang membangun website, aplikasi dan CLI" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/expressive/about-dark.svg"><img src="assets/expressive/about-light.svg" width="100%" alt="About me"></picture>
 
-<img src="assets/stack-motion.svg" width="100%" alt="Tech stack: Python, JavaScript, TypeScript, Kotlin, Dart, Flutter" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/expressive/stack-dark.svg"><img src="assets/expressive/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-### 🚀 Featured Projects
+<a href="https://github.com/XbibzOfficial777/Mochy-Music"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/expressive/project-mochy-music-dark.svg"><img src="assets/expressive/project-mochy-music-light.svg" width="49%" alt="Mochy-Music"></picture></a>&nbsp;<a href="https://github.com/XbibzOfficial777/evillimiter"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/expressive/project-evillimiter-dark.svg"><img src="assets/expressive/project-evillimiter-light.svg" width="49%" alt="evillimiter"></picture></a>
 
-<a href="https://github.com/XbibzOfficial777/Mochy-Music"><img src="assets/mochy-motion.svg" width="49%" alt="Mochy Music Xbibz" /></a>
-<a href="https://github.com/XbibzOfficial777/evillimiter"><img src="assets/evillimiter-motion.svg" width="49%" alt="Evillimiter" /></a>
+<a href="https://github.com/XbibzOfficial777/whatsbibz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/expressive/project-whatsbibz-dark.svg"><img src="assets/expressive/project-whatsbibz-light.svg" width="49%" alt="whatsbibz"></picture></a>&nbsp;<a href="https://github.com/XbibzOfficial777/telebibz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/expressive/project-telebibz-dark.svg"><img src="assets/expressive/project-telebibz-light.svg" width="49%" alt="telebibz"></picture></a>
 
-<a href="https://github.com/XbibzOfficial777/whatsbibz"><img src="assets/whatsbibz-motion.svg" width="49%" alt="WhatsBibz" /></a>
-<a href="https://github.com/XbibzOfficial777/telebibz"><img src="assets/telebibz-motion.svg" width="49%" alt="TeleBibz" /></a>
+<a href="https://github.com/XbibzOfficial777/plinteng-ai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/expressive/project-plinteng-ai-dark.svg"><img src="assets/expressive/project-plinteng-ai-light.svg" width="49%" alt="plinteng-ai"></picture></a>&nbsp;<a href="https://github.com/XbibzOfficial777/Bibz-Islamic-App"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/expressive/project-bibz-islamic-app-dark.svg"><img src="assets/expressive/project-bibz-islamic-app-light.svg" width="49%" alt="Bibz-Islamic-App"></picture></a>
 
-### 🎵 Mochy Music — Xbibz Edition
+<a href="https://github.com/XbibzOfficial777/Mochy-Music"><img src="https://raw.githubusercontent.com/XbibzOfficial777/Mochy-Music/mochy-xbibz/docs/assets/img/mochy-hero.webp" width="49%" alt="Mochy Music thumbnail"></a>&nbsp;<a href="https://github.com/XbibzOfficial777/evillimiter"><img src="https://i.vgy.me/tfrvUe.jpg" width="49%" alt="Evillimiter thumbnail"></a>
 
-<a href="https://github.com/XbibzOfficial777/Mochy-Music"><img src="https://raw.githubusercontent.com/XbibzOfficial777/Mochy-Music/mochy-xbibz/docs/assets/img/mochy-hero.webp" width="80%" alt="Thumbnail Mochy Music" /></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/expressive/stats-dark.svg"><img src="assets/expressive/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
-Fork dari [Mochy Music](https://github.com/realidkroo/Mochy-Music): pemutar musik Android modern dengan pengembangan tambahan oleh Xbibz.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/expressive/streak-dark.svg"><img src="assets/expressive/streak-light.svg" width="100%" alt="Streak"></picture>
 
-### 📡 Evillimiter
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/expressive/wave-dark.svg"><img src="assets/expressive/wave-light.svg" width="100%" alt=""></picture>
 
-<a href="https://github.com/XbibzOfficial777/evillimiter"><img src="https://i.vgy.me/tfrvUe.jpg" width="80%" alt="Thumbnail Evillimiter" /></a>
-
-Tool Python untuk memantau, menganalisis, dan membatasi bandwidth perangkat di jaringan lokal. Gunakan hanya pada jaringan yang kamu miliki atau dengan izin.
-
-### 📊 GitHub Activity
-
-[![GitHub followers](https://img.shields.io/github/followers/XbibzOfficial777?style=for-the-badge&color=92566d&label=Followers)](https://github.com/XbibzOfficial777?tab=followers)
-[![Mochy Music stars](https://img.shields.io/github/stars/XbibzOfficial777/Mochy-Music?style=for-the-badge&color=92566d&label=Mochy%20Stars)](https://github.com/XbibzOfficial777/Mochy-Music/stargazers)
-[![Evillimiter stars](https://img.shields.io/github/stars/XbibzOfficial777/evillimiter?style=for-the-badge&color=92566d&label=Evillimiter%20Stars)](https://github.com/XbibzOfficial777/evillimiter/stargazers)
-
-<img src="https://streak-stats.demolab.com/?user=XbibzOfficial777&hide_border=true&background=21181D&ring=E99ABB&fire=E99ABB&currStreakLabel=E99ABB&sideLabels=EEE0E6&currStreakNum=EEE0E6&sideNums=EEE0E6&dates=AF98A2" alt="GitHub contribution streak" />
-
-<img src="assets/wave-motion.svg" width="100%" alt="Garis bergelombang" />
-
-[![My Website](https://img.shields.io/badge/My%20Website-e99abb?style=for-the-badge&logo=googlechrome&logoColor=291820)](https://xbibzofficial.my.id)
-[![Jasa Website](https://img.shields.io/badge/Jasa%20Website-92566d?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jasjus.xbibzclone.my.id)
-[![All Repositories](https://img.shields.io/badge/All%20Repositories-92566d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XbibzOfficial777?tab=repositories)
-
-<sub>Made with 💗 by Xbibz Official Technology ID</sub>
+<a href="https://xbibzofficial.my.id"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/expressive/button-1-dark.svg"><img src="assets/expressive/button-1-light.svg" width="auto" height="46" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://jasjus.xbibzclone.my.id"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/expressive/button-2-dark.svg"><img src="assets/expressive/button-2-light.svg" width="auto" height="46" alt="Jasa website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/XbibzOfficial777?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/expressive/button-3-dark.svg"><img src="assets/expressive/button-3-light.svg" width="auto" height="46" alt="All repositories"></picture></a>
 
 </div>
