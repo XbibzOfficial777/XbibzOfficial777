@@ -73,8 +73,9 @@ Tool berbasis Python untuk memantau, menganalisis, dan membatasi bandwidth peran
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=XbibzOfficial777&show_icons=true&hide_border=true&bg_color=21181d&title_color=e99abb&icon_color=e99abb&text_color=eee0e6" alt="Statistik GitHub Xbibz" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XbibzOfficial777&layout=compact&hide_border=true&bg_color=21181d&title_color=e99abb&text_color=eee0e6" alt="Bahasa GitHub Xbibz" height="165" />
+[![GitHub followers](https://img.shields.io/github/followers/XbibzOfficial777?style=for-the-badge&color=92566d&label=Followers)](https://github.com/XbibzOfficial777?tab=followers)
+[![Mochy Music stars](https://img.shields.io/github/stars/XbibzOfficial777/Mochy-Music?style=for-the-badge&color=92566d&label=Mochy%20Stars)](https://github.com/XbibzOfficial777/Mochy-Music/stargazers)
+[![Evillimiter stars](https://img.shields.io/github/stars/XbibzOfficial777/evillimiter?style=for-the-badge&color=92566d&label=Evillimiter%20Stars)](https://github.com/XbibzOfficial777/evillimiter/stargazers)
 
 <br />
 
