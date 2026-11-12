@@ -17,8 +17,17 @@ for repo in repos:
 now=datetime.datetime.now(datetime.timezone.utc).date(); year=now.year
 contrib=json.loads(get(f'https://github-contributions-api.jogruber.de/v4/{user}?y={year}',False))
 days=[d for d in contrib['contributions'] if d['date'] <= now.isoformat()]
-if len(days)<21: raise RuntimeError('Insufficient contribution history')
-last=days[-21:]; matrix=[[{'c':i['count'],'day':int(i['date'][-2:]),'today':i['date']==now.isoformat()} for i in last[j:j+7]] for j in range(0,21,7)]
+if not days: raise RuntimeError('No contribution history available')
+# Three calendar weeks aligned to Sunday, with future and unavailable dates blank.
+lookup={d['date']:d for d in days}
+start=now-datetime.timedelta(days=(now.weekday()+1)%7+14)
+matrix=[]
+for week in range(3):
+ row=[]
+ for weekday in range(7):
+  date=start+datetime.timedelta(days=week*7+weekday); item=lookup.get(date.isoformat())
+  row.append({'c':item['count'],'day':date.day,'today':date==now} if item else None)
+ matrix.append(row)
 streak=0
 for i,item in enumerate(reversed(days)):
  if item['count']>0: streak+=1
@@ -29,9 +38,17 @@ for item in days:
  run=run+1 if item['count']>0 else 0; longest=max(longest,run)
 selected=['Mochy-Music','evillimiter','whatsbibz','telebibz','plinteng-ai','Bibz-Islamic-App']
 by={r['name'].lower():r for r in repos}
+descriptions={
+ 'Mochy-Music':'Pemutar musik Android modern.',
+ 'evillimiter':'Monitor bandwidth jaringan lokal.',
+ 'whatsbibz':'Library WhatsApp Web multi-device.',
+ 'telebibz':'Framework bot Telegram untuk Node.js.',
+ 'plinteng-ai':'AI agent dan platform otomasi.',
+ 'Bibz-Islamic-App':'Aplikasi Al-Quran offline-first.'
+}
 pins=[]
 for name in selected:
- r=by[name.lower()]; pins.append({'name':r['name'],'url':r['html_url'],'text':r['description'] or 'Open source project by Xbibz Official.','fork':r['fork'],'stars':r['stargazers_count'],'language':r['language'] or '', 'topics':r.get('topics',[])})
+ r=by[name.lower()]; pins.append({'name':r['name'],'url':r['html_url'],'text':descriptions[name],'fork':r['fork'],'stars':r['stargazers_count'],'language':r['language'] or '', 'topics':r.get('topics',[])})
 stats={'stars':sum(r['stargazers_count'] for r in repos),'contributions':sum(d['count'] for d in days),'repos':profile['public_repos'],'followers':profile['followers'],'languages':sorted(langs.items(),key=lambda x:-x[1])[:8],'days':matrix,'pins':pins,'streak':{'currentStreakCount':streak,'longestStreakCount':longest}}
 (root/'src/data/stats.json').write_text(json.dumps(stats,ensure_ascii=False,indent=2)+'\n')
 avatar=get('https://avatars.githubusercontent.com/u/215938563?v=4',False)

@@ -41,16 +41,6 @@
     [
       {
         "c": 0,
-        "day": 23,
-        "today": false
-      },
-      {
-        "c": 1,
-        "day": 24,
-        "today": false
-      },
-      {
-        "c": 0,
         "day": 25,
         "today": false
       },
@@ -73,9 +63,7 @@
         "c": 13,
         "day": 29,
         "today": false
-      }
-    ],
-    [
+      },
       {
         "c": 0,
         "day": 30,
@@ -85,7 +73,9 @@
         "c": 0,
         "day": 31,
         "today": false
-      },
+      }
+    ],
+    [
       {
         "c": 1,
         "day": 1,
@@ -110,9 +100,7 @@
         "c": 13,
         "day": 5,
         "today": false
-      }
-    ],
-    [
+      },
       {
         "c": 0,
         "day": 6,
@@ -122,7 +110,9 @@
         "c": 0,
         "day": 7,
         "today": false
-      },
+      }
+    ],
+    [
       {
         "c": 0,
         "day": 8,
@@ -147,14 +137,16 @@
         "c": 8,
         "day": 12,
         "today": true
-      }
+      },
+      null,
+      null
     ]
   ],
   "pins": [
     {
       "name": "Mochy-Music",
       "url": "https://github.com/XbibzOfficial777/Mochy-Music",
-      "text": "A modern sleek music player.",
+      "text": "Pemutar musik Android modern.",
       "fork": true,
       "stars": 2,
       "language": "Kotlin",
@@ -163,7 +155,7 @@
     {
       "name": "evillimiter",
       "url": "https://github.com/XbibzOfficial777/evillimiter",
-      "text": "Tool to monitor, analyze and limit bandwidth of devices on local network - Arecoded by Xbibz Official",
+      "text": "Monitor bandwidth jaringan lokal.",
       "fork": false,
       "stars": 3,
       "language": "Python",
@@ -177,7 +169,7 @@
     {
       "name": "whatsbibz",
       "url": "https://github.com/XbibzOfficial777/whatsbibz",
-      "text": "WhatsBibz — WhatsApp Web multi-device library for Node.js (maintained Baileys fork): custom pairing codes, self-healing sessions, configurable or automatic linked-device identity, full TypeScript types. npm: @xbibzlibrary/whatsbibz",
+      "text": "Library WhatsApp Web multi-device.",
       "fork": false,
       "stars": 1,
       "language": "JavaScript",
@@ -198,7 +190,7 @@
     {
       "name": "telebibz",
       "url": "https://github.com/XbibzOfficial777/telebibz",
-      "text": "Telegram Bot framework SDK for Node.js and TypeScript with typed API, routing, webhooks, conversations, plugins, queues, and colorful CLI logs.",
+      "text": "Framework bot Telegram untuk Node.js.",
       "fork": false,
       "stars": 1,
       "language": "JavaScript",
@@ -217,7 +209,7 @@
     {
       "name": "plinteng-ai",
       "url": "https://github.com/XbibzOfficial777/plinteng-ai",
-      "text": "Plinteng AI — Personal AI Agent & Automation Platform (Flutter + Kotlin + Rive)",
+      "text": "AI agent dan platform otomasi.",
       "fork": false,
       "stars": 0,
       "language": "Dart",
@@ -226,7 +218,7 @@
     {
       "name": "Bibz-Islamic-App",
       "url": "https://github.com/XbibzOfficial777/Bibz-Islamic-App",
-      "text": "Offline-first Quran application built with Flutter",
+      "text": "Aplikasi Al-Quran offline-first.",
       "fork": false,
       "stars": 0,
       "language": "Dart",

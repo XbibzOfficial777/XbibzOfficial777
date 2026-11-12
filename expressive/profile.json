@@ -21,7 +21,7 @@
   "hero": {
     "greeting": "Halo, saya",
     "name": "Xbibz Official",
-    "subtitle": "Developer & technology enthusiast.\nMembangun aplikasi, website dan tools open source.",
+    "subtitle": "Developer & technology enthusiast.\nBuilding apps, websites & tools.",
     "typing": true,
     "avatarShape": "pill",
     "avatarUrl": "https://github.com/AlexJamesHQ.png?size=320",
@@ -36,7 +36,7 @@
       },
       {
         "icon": "terminal",
-        "label": "Web · Mobile · CLI"
+        "label": "Web · Mobile"
       }
     ]
   },
@@ -141,7 +141,7 @@
     "contributions": "Contributions this year",
     "repos": "Public repos",
     "followers": "Followers",
-    "calendar": "Last 21 days",
+    "calendar": "Last 3 weeks",
     "weekdays": "SMTWTFS",
     "languages": "Languages across public repositories",
     "showLanguages": true

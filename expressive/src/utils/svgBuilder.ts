@@ -350,7 +350,7 @@ export function generateProjectCardSvg(
 
   if (pin.fork) {
     const fw = textWidth('Fork', 12, 600) + 18;
-    const fx = tx + textWidth(pin.name, 23, 650) + 10;
+    const fx = w - 92;
     b.push(`<g class="pop" style="animation-delay:${(d0 + 0.25).toFixed(2)}s"><rect x="${fx.toFixed(1)}" y="98" width="${fw.toFixed(1)}" height="22" rx="11" fill="${p.tertiaryContainer}"/>`);
     b.push(renderText(fx + fw / 2, 113, 'Fork', 12, p.onTertiaryContainer, 600, '', null, 'middle') + '</g>');
   }
@@ -536,7 +536,7 @@ export function generateStreakSvg(profile: ProfileConfig, stats: StatsData, p: P
   b.push(`<rect x="28" y="80" width="${cardW}" height="76" rx="20" fill="${p.surfaceContainerHigh}"/>`);
   b.push(`<path d="${generateShapePath('cookie', 58, 118, 18)}" fill="${p.primaryContainer}"/>`);
   b.push(renderIcon('commit', 48, 108, 20, p.onPrimaryContainer));
-  b.push(renderText(88, 116, `${currentDays} ${profile.streak.days || 'days'}`, 24, p.onSurface, 700));
+  b.push(renderText(88, 116, `${currentDays} ${currentDays === 1 ? 'day' : (profile.streak.days || 'days')}`, 24, p.onSurface, 700));
   b.push(renderText(88, 138, profile.streak.current || 'Current streak', 13, p.onSurfaceVariant, 500));
   b.push('</g>');
 
@@ -545,7 +545,7 @@ export function generateStreakSvg(profile: ProfileConfig, stats: StatsData, p: P
   b.push(`<rect x="${28 + cardW + 20}" y="80" width="${cardW}" height="76" rx="20" fill="${p.surfaceContainerHigh}"/>`);
   b.push(`<path d="${generateShapePath('flower', 28 + cardW + 50, 118, 18)}" fill="${p.tertiaryContainer}"/>`);
   b.push(renderIcon('star', 28 + cardW + 40, 108, 20, p.onTertiaryContainer));
-  b.push(renderText(28 + cardW + 80, 116, `${longestDays} ${profile.streak.days || 'days'}`, 24, p.onSurface, 700));
+  b.push(renderText(28 + cardW + 80, 116, `${longestDays} ${longestDays === 1 ? 'day' : (profile.streak.days || 'days')}`, 24, p.onSurface, 700));
   b.push(renderText(28 + cardW + 80, 138, profile.streak.longest || 'Longest this year', 13, p.onSurfaceVariant, 500));
   b.push('</g>');
 
@@ -652,7 +652,7 @@ export function generateReadmeMarkdown(profile: ProfileConfig, pins: PinnedRepo[
   const slug = (name: string) => name.toLowerCase().replace(/[^a-z0-9]/g, '-').replace(/^-+|-+$/g, '');
   const pic = (name: string, alt: string, width = '100%', height?: string) => {
     const hAttr = height ? ` height="${height}"` : '';
-    return `<picture><source media="(prefers-color-scheme: dark)" srcset="assets/expressive/${name}-dark.svg"><img src="assets/expressive/${name}-light.svg" width="${width}"${hAttr} alt="${escapeHtml(alt)}"></picture>`;
+    return `<picture><source media="(prefers-color-scheme: dark)" srcset="assets/expressive-v2/${name}-dark.svg"><img src="assets/expressive-v2/${name}-light.svg" width="${width}"${hAttr} alt="${escapeHtml(alt)}"></picture>`;
   };
 
   // Standalone separated social pill chips (Facebook, Instagram, WhatsApp) with clean spacing
@@ -686,7 +686,7 @@ export function generateReadmeMarkdown(profile: ProfileConfig, pins: PinnedRepo[
     pic('about', profile.about.title || 'About me'),
     pic('stack', profile.stack.title || 'Tech stack'),
     ...rows,
-    `<a href="https://github.com/XbibzOfficial777/Mochy-Music"><img src="https://raw.githubusercontent.com/XbibzOfficial777/Mochy-Music/mochy-xbibz/docs/assets/img/mochy-hero.webp" width="49%" alt="Mochy Music thumbnail"></a>&nbsp;<a href="https://github.com/XbibzOfficial777/evillimiter"><img src="https://i.vgy.me/tfrvUe.jpg" width="49%" alt="Evillimiter thumbnail"></a>`,
+    `<a href="https://github.com/XbibzOfficial777/Mochy-Music"><img src="assets/expressive-v2/thumb-mochy.png" width="49%" alt="Mochy Music thumbnail"></a>&nbsp;<a href="https://github.com/XbibzOfficial777/evillimiter"><img src="assets/expressive-v2/thumb-evillimiter.png" width="49%" alt="Evillimiter thumbnail"></a>`,
     pic('stats', profile.stats.title || 'GitHub activity'),
     pic('streak', profile.streak.title || 'Streak'),
     pic('wave', ''),

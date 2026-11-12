@@ -10,7 +10,7 @@ const profile = profileJson as unknown as ProfileConfig;
 const stats = statsJson as unknown as StatsData & {streak:{currentStreakCount:number;longestStreakCount:number}};
 profile.hero.avatarUrl = avatarJson.avatar;
 Object.assign(profile.streak, stats.streak);
-const assets = path.resolve('../assets/expressive');
+const assets = path.resolve('../assets/expressive-v2');
 fs.mkdirSync(assets, {recursive:true});
 for (const theme of ['light','dark'] as const) {
  const p = DEFAULT_PALETTE[theme];
