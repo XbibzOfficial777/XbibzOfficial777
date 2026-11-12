@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Halo, saya Xbibz Official — developer dan technology enthusiast" />
+<img src="assets/hero-avatar.svg" width="100%" alt="Halo, saya Xbibz Official — developer dan technology enthusiast" />
 
 [![Website](https://img.shields.io/badge/Website-92566d?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xbibzofficial.my.id)
 [![Telegram](https://img.shields.io/badge/Telegram-92566d?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xbibzofc)
