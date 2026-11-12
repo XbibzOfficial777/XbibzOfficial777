@@ -1,204 +1,97 @@
-<img width="3415" height="1918" alt="BeautyPlus_20261105141919632_save" src="https://github.com/user-attachments/assets/209b8014-7d9d-4ce0-87fb-1a227c0a2dd9" />
-
-
-
-<!-- ===== TAUTAN SOSIAL MEDIA & KONTAK ===== -->
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-xbibzofficial.my.id-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://xbibzofficial.my.id)
-[![GitHub](https://img.shields.io/badge/GitHub-XbibzOfficial777-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XbibzOfficial777)
-[![TikTok](https://img.shields.io/badge/TikTok-@xbibzofficial-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@xbibzofficial)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Dukung%20Saya-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/xbibzofficial)
-[![Telegram](https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xbibzofc)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21151d,50:754156,100:eea1c1&height=210&section=header&text=Xbibz%20Official&fontSize=42&fontColor=fff5f8&animation=fadeIn&fontAlignY=37&desc=Technology%20%7C%20Code%20%7C%20Creativity&descAlignY=60&descSize=16" width="100%" alt="Xbibz Official — Technology, Code, Creativity" />
 
-</div>
+<img src="https://avatars.githubusercontent.com/XbibzOfficial777" width="110" alt="Avatar Xbibz Official" />
 
-<br/>
+### Halo, saya Xbibz 👋
 
-<!-- ===== JUMLAH KUNJUNGAN ===== -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=XbibzOfficial777&color=8A2BE2&style=for-the-badge&label=Profil%20Views" alt="Profile Views" />
+**Developer & technology enthusiast dari Indonesia 🇮🇩**  
+*Reading code at night 🌙💤*
+
+[![Website](https://img.shields.io/badge/Website-92566d?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xbibzofficial.my.id)
+[![Telegram](https://img.shields.io/badge/Telegram-92566d?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xbibzofc)
+[![Email](https://img.shields.io/badge/Email-92566d?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:xbibzofficial@protonmail.com)
+
 </div>
 
 ---
 
-## 👨‍💻 Tentang Saya
+### 🌸 Tentang Saya
 
-<table>
-  <tr>
-    <td width="60%">
-      <ul>
-        <li>Fokus pada pengembangan aplikasi web modern dan alat baris perintah (CLI) open-source</li>
-        <li>Mempelajari teknologi artificial intelligence, machine learning, dan arsitektur backend yang scalable</li>
-        <li>Terbuka untuk berkolaborasi dalam proyek open source, terutama di ekosistem Python dan Node.js</li>
-        <li>Tersedia untuk diskusi mengenai web development, JavaScript, Python, dan tools CLI</li>
-        <li>Hubungi saya melalui <a href="mailto:xbibzofficial@protonmail.com"><b>xbibzofficial@protonmail.com</b></a></li>
-        <li>Fakta menarik: Paling produktif saat mengerjakan proyek di tengah malam dengan secangkir kopi ☕</li>
-      </ul>
-    </td>
-    <td width="40%">
-      <img src="https://imgbs.com/uploads/666894-91ee744d.jpg" width="100%" alt="Coding GIF" style="border-radius: 10px;" />
-    </td>
-  </tr>
-</table>
+Saya senang membangun aplikasi, website, dan tools open source yang bermanfaat. Di sini saya berbagi eksperimen, belajar teknologi baru, dan mengembangkan ide menjadi karya digital.
 
----
+- 💻 Mengembangkan website, aplikasi mobile, dan tools CLI.
+- 🌱 Mengeksplorasi AI, otomasi, dan teknologi backend.
+- 🤝 Terbuka untuk kolaborasi proyek open source.
+- 🌐 Membutuhkan website? Kunjungi [jasa pembuatan website](https://jasjus.xbibzclone.my.id).
+- 📩 Hubungi saya di **[xbibzofficial@protonmail.com](mailto:xbibzofficial@protonmail.com)**.
 
-## 🚀 Proyek Unggulan: BibzCode CLI Agent
+### 🧰 Tech Stack
 
-<div align="center">
-  <a href="https://github.com/XbibzOfficial777/BibzCode">
-    <img src="https://imgbs.com/uploads/bibzcode-313710f2.jpg" alt="DeepSeek CLI Card" />
-  </a>
-</div>
-
-**BibzCode CLI** adalah agen AI otonomi tingkat produksi yang dirancang untuk mengoptimalkan alur kerja pengembangan. Dilengkapi dengan loop agentic canggih, sistem ini tidak hanya dapat berkomunikasi tetapi juga dapat bernalar, merencanakan, dan menjalankan tugas kompleks menggunakan lebih dari 26 alat terintegrasi. Cocok untuk pengembang yang membutuhkan kecepatan, otonomi, dan efisiensi di terminal.
-
-### ✨ Fitur Utama
-
-| Fitur | Deskripsi |
-|---|---|
-| **Autonomous Reasoning** | Mesin perencanaan multi-langkah yang menguraikan tugas kompleks menjadi langkah-langkah yang dapat dieksekusi |
-| **26+ Tools Terintegrasi** | Akses penuh ke Filesystem, Shell, Web Search, Python Execution, dan operasi Git |
-| **Multi-Provider AI** | Dukungan native untuk 7 penyedia AI: OpenRouter, Gemini, Anthropic, Groq, Together AI, HuggingFace, dan OpenAI |
-| **Antarmuka Elegan** | UI/UX terminal kaya dengan streaming real-time, progress tracking, dan syntax highlighting |
-| **Mobile Ready** | Dioptimalkan untuk Android Termux dan lingkungan dengan latensi rendah |
-| **Eksekusi Aman** | Validasi perintah bawaan dan mode otonom yang dapat diaktifkan/nonaktifkan untuk operasi yang aman |
-
-### 🔄 Arsitektur Agentic Loop
-
-1. **Perception:** Agen menerima maksud pengguna dan menganalisis lingkungan sekitar
-2. **Planning:** Model AI (default DeepSeek-R1) menghasilkan strategi eksekusi multi-langkah
-3. **Action:** Agen memanggil tools khusus (Filesystem, Shell, dan lainnya) untuk mengerjakan tugas
-4. **Observation:** Hasil dimasukkan kembali ke memori untuk perbaikan diri dan optimalisasi
-
-```mermaid
-graph LR
-    User([User]) --> Agent[Agent Engine]
-    Agent --> Memory[(Memory)]
-    Agent --> Tools[(Tool Registry)]
-    Tools --> FS[Filesystem]
-    Tools --> Web[Web Search]
-    Tools --> Shell[Shell/Python]
-    Agent --> Providers[API Providers]
-```
-
-> **Tech Stack:** Python 97.6%, Shell 2.4% &nbsp;|&nbsp; **Lisensi:** MIT &nbsp;|&nbsp; **Status:** Dalam pengembangan aktif
-
-### ⚡ Instalasi Cepat
-
-```bash
-curl -fsSL https://bibzcode.bibzflow.workers.dev/install.sh | bash
-```
+![Python](https://img.shields.io/badge/Python-38272e?style=for-the-badge&logo=python&logoColor=eda1c1)
+![JavaScript](https://img.shields.io/badge/JavaScript-38272e?style=for-the-badge&logo=javascript&logoColor=eda1c1)
+![TypeScript](https://img.shields.io/badge/TypeScript-38272e?style=for-the-badge&logo=typescript&logoColor=eda1c1)
+![Kotlin](https://img.shields.io/badge/Kotlin-38272e?style=for-the-badge&logo=kotlin&logoColor=eda1c1)
+![Dart](https://img.shields.io/badge/Dart-38272e?style=for-the-badge&logo=dart&logoColor=eda1c1)
+![Flutter](https://img.shields.io/badge/Flutter-38272e?style=for-the-badge&logo=flutter&logoColor=eda1c1)
+![Node.js](https://img.shields.io/badge/Node.js-38272e?style=for-the-badge&logo=nodedotjs&logoColor=eda1c1)
+![GitHub](https://img.shields.io/badge/GitHub-38272e?style=for-the-badge&logo=github&logoColor=eda1c1)
 
 ---
 
-## 📦 Proyek Lainnya
+### 🚀 Proyek Unggulan
 
-<div align="center">
-  <a href="https://github.com/XbibzOfficial777/ytmusicscraper">
-    <img src="https://static.vecteezy.com/system/resources/thumbnails/042/127/234/small/white-square-bordered-youtube-logo-on-transparent-background-free-png.png" alt="YtMusicScraper Card" />
-  </a>
-</div>
+#### 🎵 Mochy Music — Xbibz Edition
 
----
+<a href="https://github.com/XbibzOfficial777/Mochy-Music"><img src="https://raw.githubusercontent.com/XbibzOfficial777/Mochy-Music/mochy-xbibz/docs/assets/img/mochy-hero.webp" alt="Thumbnail Mochy Music" width="600" /></a>
 
-## 🛠️ Teknologi & Tools
+Pemutar musik modern untuk Android. Ini adalah versi fork Xbibz dari [Mochy Music](https://github.com/realidkroo/Mochy-Music), dengan pengembangan dan penyesuaian tambahan.
 
-### Bahasa Pemrograman
+[![Lihat Mochy Music](https://img.shields.io/badge/Lihat%20Proyek-Mochy%20Music-92566d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XbibzOfficial777/Mochy-Music)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+#### 📡 Evillimiter
 
-### Framework & Library
+<a href="https://github.com/XbibzOfficial777/evillimiter"><img src="https://i.vgy.me/tfrvUe.jpg" alt="Thumbnail Evillimiter" width="600" /></a>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+Tool berbasis Python untuk memantau, menganalisis, dan membatasi bandwidth perangkat di jaringan lokal. Versi yang di-recode oleh Xbibz Official. Gunakan hanya pada jaringan yang kamu miliki atau dengan izin.
 
-### Database & Backend
+[![Lihat Evillimiter](https://img.shields.io/badge/Lihat%20Proyek-Evillimiter-92566d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XbibzOfficial777/evillimiter)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+#### ✨ Proyek lainnya
 
-### Tools & Platform
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### Desain
-
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+| Proyek | Deskripsi |
+| :--- | :--- |
+| [**WhatsBibz**](https://github.com/XbibzOfficial777/whatsbibz) | Library WhatsApp Web multi-device untuk Node.js, berbasis fork Baileys. |
+| [**TeleBibz**](https://github.com/XbibzOfficial777/telebibz) | SDK framework bot Telegram untuk Node.js dan TypeScript. |
+| [**Plinteng AI**](https://github.com/XbibzOfficial777/plinteng-ai) | Platform personal AI agent dan otomasi berbasis Flutter, Kotlin, dan Rive. |
+| [**Bibz Islamic App**](https://github.com/XbibzOfficial777/Bibz-Islamic-App) | Aplikasi Al-Qur'an offline-first yang dibuat dengan Flutter. |
 
 ---
 
-## 📊 Statistik GitHub
+### 📊 GitHub Activity
 
 <div align="center">
-  <img height="180em" src="https://readme-stats-github.pages.dev/api?username=XbibzOfficial777&theme=dark" alt="GitHub Stats" />
-  <img height="180em" src="https://readme-stats-github.pages.dev/api/top-langs?username=XbibzOfficial777&theme=dark" alt="Top Languages" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=XbibzOfficial777&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=XbibzOfficial777&show_icons=true&hide_border=true&bg_color=21181d&title_color=e99abb&icon_color=e99abb&text_color=eee0e6" alt="Statistik GitHub Xbibz" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XbibzOfficial777&layout=compact&hide_border=true&bg_color=21181d&title_color=e99abb&text_color=eee0e6" alt="Bahasa GitHub Xbibz" height="165" />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XbibzOfficial777&theme=tokyo-night&hide_border=true&area=true&custom_title=Grafik%20Kontribusi" alt="Activity Graph" />
-</div>
+<br />
 
----
+<img src="https://streak-stats.demolab.com/?user=XbibzOfficial777&hide_border=true&background=21181D&ring=E99ABB&fire=E99ABB&currStreakLabel=E99ABB&sideLabels=EEE0E6&currStreakNum=EEE0E6&sideNums=EEE0E6&dates=AF98A2" alt="GitHub contribution streak" />
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://trophy.ryglcloud.net/?username=XbibzOfficial777" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🤝 Mari Terhubung
-
-<div align="center">
-  <a href="https://xbibzofficial.pages.dev">
-    <img src="https://img.shields.io/badge/Website-xbibzofficial.pages.dev-8A2BE2?style=for-the-badge" alt="Website" />
-  </a>
-  <a href="https://github.com/XbibzOfficial777">
-    <img src="https://img.shields.io/badge/GitHub-XbibzOfficial777-181717?style=for-the-badge" alt="GitHub" />
-  </a>
-  <a href="https://tiktok.com/@xbibzofficial">
-    <img src="https://img.shields.io/badge/TikTok-@xbibzofficial-000000?style=for-the-badge" alt="TikTok" />
-  </a>
-  <a href="https://ko-fi.com/xbibzofficial">
-    <img src="https://img.shields.io/badge/Ko--fi-Dukung%20Saya-FF5E5B?style=for-the-badge" alt="Ko-fi" />
-  </a>
-  <a href="https://t.me/xbibzofc">
-    <img src="https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge" alt="Telegram" />
-  </a>
-</div>
-
-<br/>
-
-<!-- ===== FOOTER ===== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=100&section=footer" />
 </div>
 
 ---
 
 <div align="center">
-  Dibuat dengan kebanggaan oleh <b>XbibzOfficial777</b> 🚀
+
+**✨ Let's build something amazing together ✨**
+
+[![My Website](https://img.shields.io/badge/My%20Website-e99abb?style=for-the-badge&logo=googlechrome&logoColor=291820)](https://xbibzofficial.my.id)
+[![Jasa Website](https://img.shields.io/badge/Jasa%20Website-92566d?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jasjus.xbibzclone.my.id)
+[![All Repositories](https://img.shields.io/badge/All%20Repositories-92566d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XbibzOfficial777?tab=repositories)
+
+<sub>Made with 💗 by Xbibz Official Technology ID</sub>
+
 </div>
