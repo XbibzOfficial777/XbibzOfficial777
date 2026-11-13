@@ -1,7 +1,7 @@
 {
   "stars": 23,
-  "contributions": 336,
-  "repos": 37,
+  "contributions": 335,
+  "repos": 36,
   "followers": 23,
   "languages": [
     [
@@ -134,11 +134,15 @@
         "today": false
       },
       {
-        "c": 10,
+        "c": 9,
         "day": 12,
+        "today": false
+      },
+      {
+        "c": 0,
+        "day": 13,
         "today": true
       },
-      null,
       null
     ]
   ],
