@@ -158,7 +158,13 @@
       "fork": true,
       "stars": 2,
       "language": "Kotlin",
-      "topics": []
+      "topics": [
+        "audio-player",
+        "music",
+        "music-player",
+        "music-production",
+        "music-production-studio"
+      ]
     },
     {
       "name": "evillimiter",
