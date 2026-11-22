@@ -1,6 +1,6 @@
 {
   "stars": 24,
-  "contributions": 402,
+  "contributions": 415,
   "repos": 37,
   "followers": 22,
   "languages": [
@@ -30,7 +30,7 @@
     ],
     [
       "Kotlin",
-      351879
+      407492
     ],
     [
       "HTML",
@@ -38,43 +38,6 @@
     ]
   ],
   "days": [
-    [
-      {
-        "c": 1,
-        "day": 1,
-        "today": false
-      },
-      {
-        "c": 0,
-        "day": 2,
-        "today": false
-      },
-      {
-        "c": 0,
-        "day": 3,
-        "today": false
-      },
-      {
-        "c": 3,
-        "day": 4,
-        "today": false
-      },
-      {
-        "c": 14,
-        "day": 5,
-        "today": false
-      },
-      {
-        "c": 0,
-        "day": 6,
-        "today": false
-      },
-      {
-        "c": 0,
-        "day": 7,
-        "today": false
-      }
-    ],
     [
       {
         "c": 0,
@@ -146,8 +109,21 @@
       {
         "c": 61,
         "day": 21,
-        "today": true
+        "today": false
       }
+    ],
+    [
+      {
+        "c": 13,
+        "day": 22,
+        "today": true
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
     ]
   ],
   "pins": [
@@ -242,7 +218,7 @@
     }
   ],
   "streak": {
-    "currentStreakCount": 1,
+    "currentStreakCount": 2,
     "longestStreakCount": 5
   }
 }
