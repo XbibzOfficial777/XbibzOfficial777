@@ -2,7 +2,7 @@
   "stars": 24,
   "contributions": 419,
   "repos": 37,
-  "followers": 22,
+  "followers": 23,
   "languages": [
     [
       "Smali",
@@ -121,9 +121,13 @@
       {
         "c": 0,
         "day": 23,
+        "today": false
+      },
+      {
+        "c": 0,
+        "day": 24,
         "today": true
       },
-      null,
       null,
       null,
       null,
@@ -222,7 +226,7 @@
     }
   ],
   "streak": {
-    "currentStreakCount": 2,
+    "currentStreakCount": 0,
     "longestStreakCount": 5
   }
 }
