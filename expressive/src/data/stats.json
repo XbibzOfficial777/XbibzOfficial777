@@ -136,9 +136,13 @@
       {
         "c": 3,
         "day": 26,
+        "today": false
+      },
+      {
+        "c": 0,
+        "day": 27,
         "today": true
       },
-      null,
       null
     ]
   ],
